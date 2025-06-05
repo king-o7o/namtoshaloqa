@@ -13,7 +13,7 @@ from aiogram.types import Message
 from aiogram.client.default import DefaultBotProperties
 
 
-BOT_TOKEN = ""
+BOT_TOKEN = "7609584658:AAFmbqIiADbwv-xiBW3W3xx61xAj_7iYSN0"
 SOURCE_CHAT_IDS: set[int] = {
     -1001433669620, # @namangantoshkent24
     -1001327239978, # @Namangantoshkent26
